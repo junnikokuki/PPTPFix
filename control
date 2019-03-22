@@ -1,0 +1,9 @@
+Package: com.junnikokuki.PPTPFix
+Name: PPTPFix
+Depends: mobilesubstrate
+Version: 1.0.0
+Architecture: iphoneos-arm
+Description: A fix for iOS 10 to make you can use native PPTP VPN
+Maintainer: junnikokuki
+Author: junnikokuki
+Section: Tweaks
